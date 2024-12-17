@@ -1,0 +1,40 @@
+body {
+  color: #fff;
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+  display: flex;
+}
+
+input {
+  border-radius: 4px;
+  width: 100%;
+}
+
+.mainContainer {
+  flex-direction: column;
+  display: flex;
+}
+
+.mainImg {
+  width: 200px;
+}
+
+.submitButtonContainer {
+  justify-content: center;
+  padding: 20px;
+  display: flex;
+}
+
+#submitButton {
+  background-color: #fff;
+  border: 0;
+  border-radius: 4px;
+  padding: 6px;
+}
+
+#resultContainer {
+  display: none;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
